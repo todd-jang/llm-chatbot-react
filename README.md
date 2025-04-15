@@ -7,12 +7,12 @@ cd backend
 llm-chatbot-react/
 
 ├── backend/           <- spring boot    
+|
 │   └── src/...
 
 |
 ├── frontend/             
 |
-
 │   └── src/...
 
 |
