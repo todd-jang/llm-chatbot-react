@@ -6,14 +6,14 @@ cd backend
 
 llm-chatbot-react/
 
-├── backend/           <- spring boot    
+├── backend/             <- spring boot    
 |
-│   └── src/...
+   └── src/...
 
 |
 ├── frontend/             
 |
-│   └── src/...
+   └── src/...
 
 |
 └── README.md
